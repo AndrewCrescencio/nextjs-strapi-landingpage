@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" title="Strapi" height="25" />][tech_tools_anchor]
 &nbsp;
 
-## NextJs-Strapi-Landing Page!
+## NextJs-Strapi-Landing Page
 
 
 
