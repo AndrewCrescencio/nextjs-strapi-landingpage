@@ -18,6 +18,5 @@
 Está é uma aplicação de uma landing page gerada com Server Side Rendering do NextJs com TypeScript, e estilizada usando Styled Components. O backend é feito no CMS Strapi, então todo o conteúdo pode ser facilmente manipulado por lá. Os dados da aplicação estão salvos no banco de dados MongoDB.
 
 [Demo](http://github.com)
-![Preview](/preview.png)
 
 [tech_tools_anchor]: #--
